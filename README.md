@@ -32,6 +32,3 @@ A web app to manage daily expenses, categorize spending, and keep track of your 
       python manage.py runserver
   
   
-
-   git clone https://github.com/your-username/personal-expenses.git
-   cd personal-expenses
